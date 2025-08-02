@@ -1,0 +1,4 @@
+baza.txt
+*.bak
+*.backup
+__pycache__/
